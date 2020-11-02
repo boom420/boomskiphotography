@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html lang="en" class="height-full">
+  <head>
+    <meta charset="utf-8">
+    <title>Boomski Photography</title>
+</html>
